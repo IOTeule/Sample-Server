@@ -1,4 +1,4 @@
-# umati sample server
+# dirk sample server
 
 ![Sample-Server](doc/assets/sample-server.jpg)
 
